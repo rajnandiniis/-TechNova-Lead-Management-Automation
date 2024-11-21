@@ -119,6 +119,11 @@ The round-robin system can be seamlessly integrated into the current lead manage
 
 ---
 ![final_zap]!(https://zapier.com/editor/268021308/published)
+  **sample Images**:
+  ![sample mail iamges]![Screenshot 2024-11-21 230117](https://github.com/user-attachments/assets/c8332fc9-a689-4a7d-8de8-5a0e5d5ce2ca)
+  ![sample mail.iamges]![Screenshot 2024-11-21 230544](https://github.com/user-attachments/assets/a14aa50e-6e0a-45ca-beaa-8f25f3d5cd5a)
+
+
 
 
 ## Implementation Steps
